@@ -21,3 +21,16 @@ Not intended for production use.
 ---
 
 **Folder Structure**
+
+zenchain-crosschain-demo/
+├── src/
+│   ├── components/
+│   │   └── WalletConnect.js
+│   ├── utils/
+│   │   └── swapLogic.js
+│   ├── App.js
+│   └── index.js
+├── public/
+│   └── index.html
+├── package.json
+└── README.md
